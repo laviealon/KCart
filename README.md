@@ -15,5 +15,5 @@ The technologies used for the backend are:
 - [Stripe](https://stripe.com/)
 - [SendGrid](https://sendgrid.com/)
 
-
+The main architecture consists of a NodeJS server communicated with a database.
 
