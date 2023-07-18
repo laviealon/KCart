@@ -26,4 +26,4 @@ The server has a few main components:
 
 #### Controllers
 
-For example, 
+For example, a
