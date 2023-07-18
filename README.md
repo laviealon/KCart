@@ -26,4 +26,4 @@ The server has a few main components:
 
 #### Controllers
 
-For example, a
+For example, there is a controller communicating with the warehouse system to track inventory and a controller communicating with the delivery system to track deliveries.
